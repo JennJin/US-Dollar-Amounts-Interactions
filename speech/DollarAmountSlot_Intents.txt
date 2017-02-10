@@ -1,0 +1,26 @@
+{
+  "intents": [
+    {
+      "intent": "DollarAmount",
+      "slots": [
+        {
+          "name": "dollar",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "cents",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

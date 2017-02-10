@@ -1,0 +1,10 @@
+DollarAmount {dollar}
+DollarAmount {dollar} dollars and {cents} cents
+DollarAmount {dollar} dollars and {cents}
+DollarAmount {dollar} dollars
+DollarAmount {cents} cents
+
+AMAZON.CancelIntent quit
+AMAZON.CancelIntent exit
+AMAZON.CancelIntent done
+AMAZON.CancelIntent no more
